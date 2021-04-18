@@ -29,7 +29,8 @@ You also need to install the graphiz C-library, which is easiest using a package
 If you are using OS X and homebrew, you can ``brew install graphviz``. If you are on Ubuntu or debian, you can ``apt-get install graphviz``.
 Installing graphviz on Windows can be tricky and using conda / anaconda is recommended.
 
-### Scikit Learn Machine Learning Cheat Sheet
+
+## Scikit Learn Machine Learning Cheat Sheet
 
 ![alt text](https://github.com/GeorgeSeif/Python-Machine-Learning/blob/master/ml_cheatsheet.png)
 
