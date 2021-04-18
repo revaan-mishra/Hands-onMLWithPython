@@ -19,10 +19,6 @@ If you already have a Python environment set up, and you are using the ``conda``
 
     conda install numpy scipy scikit-learn matplotlib pandas pillow graphviz python-graphviz
 
-For the chapter on text processing you also need to install ``nltk`` and ``spacy``:
-
-    conda install nltk spacy
-
 
 ### Installing packages with pip
 If you already have a Python environment and are using pip to install packages, you need to run
