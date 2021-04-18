@@ -33,18 +33,14 @@ You also need to install the graphiz C-library, which is easiest using a package
 If you are using OS X and homebrew, you can ``brew install graphviz``. If you are on Ubuntu or debian, you can ``apt-get install graphviz``.
 Installing graphviz on Windows can be tricky and using conda / anaconda is recommended.
 
-### Regression
-* Simple linear regression with t-statistic generation
-<img src="https://slideplayer.com/slide/6053182/20/images/10/Simple+Linear+Regression+Model.jpg" width="400" height="300"/>
-([https://github.com/revaan-mishra/Hands-onMLWithPython/tree/main/Regression/Simple%20Linear%20Regression/Python)]
+### Scikit Learn Machine Learning Cheat Sheet
 
-* [Multi-variate regression with regularization](https://github.com/revaan-mishra/Hands-onMLWithPython/tree/main/Regression/Multiple%20Linear%20Regression/Python)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/L1_and_L2_balls.svg/300px-L1_and_L2_balls.svg.png"/>
+![alt text](https://github.com/GeorgeSeif/Python-Machine-Learning/blob/master/ml_cheatsheet.png)
 
-* Polynomial regression using ***scikit-learn pipeline feature*** ([https://github.com/revaan-mishra/Hands-onMLWithPython/tree/main/Regression/Polynomial%20Regression/Python))
+## Feedback
 
-* [Decision trees regression](https://github.com/revaan-mishra/Hands-onMLWithPython/tree/main/Classification/Decision%20Tree%20Classification/Python)
+If you have a favorite algorithm that should be included or spot a mistake in one of the notebooks, please let me know by creating a new issue.
 
-* [Random Forest regression](https://github.com/revaan-mishra/Hands-onMLWithPython/tree/main/Regression/Random%20Forest%20Regression/Python)
+## License
 
-* [Support Vector regression](https://github.com/revaan-mishra/Hands-onMLWithPython/tree/main/Regression/Support%20Vector%20Regression%20(SVR)/Python)
+See the LICENSE file for license rights and limitations (MIT).
